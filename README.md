@@ -1,3 +1,1 @@
-# Tests
-
-#Cursos relacionados a testes.
+# Cursos relacionados a testes.
